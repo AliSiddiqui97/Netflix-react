@@ -3,13 +3,14 @@ import "./App.css";
 import Row from "./componenets/Row.js";
 import requests from "./request";
 import Banner from "./componenets/Banner";
+import Nav from './componenets/Nav'
 // bea964f81e1f3008c5235a82e58ed9b0
 
 function App() {
   return (
     <div className="app">
-      <h1> Netflix </h1>
-      {/* navbar */}
+     {/* navbar */}
+     <Nav />
 
       {/* Banner */}
       <Banner />
