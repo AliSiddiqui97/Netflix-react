@@ -5,4 +5,4 @@ Created a clone of netflix on react. Used TMDB api for retrival of movies and re
 ![image2](https://github.com/AliSiddiqui97/Netflix-react/blob/master/images/2.PNG)
 
 # Demo
-https://netflix-clone-5589f.web.app/
+https://zen-wright-82c8e6.netlify.app/
